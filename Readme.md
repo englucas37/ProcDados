@@ -1,3 +1,5 @@
+Programas criados na disciplina Processamento de dados e sistemas informáticos durante o Mestrado em Recursos Hídricos na UFC
+
 O programa Arquivos.java cria um diretório no disco local C:// chamado "hidrologia" e grava um arquivo de registro de precipitação, sendo que o usuário entra com esses dados no console do Eclipse
 
 O programa HidrogramaUnitario.java também cria esse diretório e o usuário deve preencher os dados no console referentes ao hidrograma e ao hietograma. Esses dados são gravados em dois arquivos .txt dentro do diretório criado. O programa realiza o cálculo do hidrograma unitário e da vazão e grava o resultado em um terceiro arquivo .txt
